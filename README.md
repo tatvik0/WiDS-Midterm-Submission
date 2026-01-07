@@ -70,7 +70,7 @@ The assignments focus on **NumPy, Pandas, data visualization, exploratory data a
 
 ## Dataset
 - `dataset.csv` contains the audio features dataset used for EDA and machine learning.
-- Sales data in Assignment 1 is loaded directly from the given source in 
+- Sales data in Assignment 1 is loaded directly from the given source in `assignment1_Q.2_videogames.py`
 
 ## Requirements
 - Install dependencies:
